@@ -7,3 +7,5 @@
 ```python
 python print.py test.png
 ```
+
+This requires installation of the `escpos` [package](https://github.com/python-escpos/python-escpos).
